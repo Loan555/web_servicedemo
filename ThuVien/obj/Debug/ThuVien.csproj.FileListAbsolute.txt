@@ -1,0 +1,10 @@
+D:\application\Visual\createWebservice\ThuVien\bin\Debug\ThuVien.exe.config
+D:\application\Visual\createWebservice\ThuVien\bin\Debug\ThuVien.exe
+D:\application\Visual\createWebservice\ThuVien\bin\Debug\ThuVien.pdb
+D:\application\Visual\createWebservice\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+D:\application\Visual\createWebservice\ThuVien\obj\Debug\ThuVien.Form1.resources
+D:\application\Visual\createWebservice\ThuVien\obj\Debug\ThuVien.Properties.Resources.resources
+D:\application\Visual\createWebservice\ThuVien\obj\Debug\ThuVien.csproj.GenerateResource.cache
+D:\application\Visual\createWebservice\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+D:\application\Visual\createWebservice\ThuVien\obj\Debug\ThuVien.exe
+D:\application\Visual\createWebservice\ThuVien\obj\Debug\ThuVien.pdb
